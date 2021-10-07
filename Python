@@ -1,0 +1,7 @@
+x = 5
+y = 3
+z = x + y
+w = x - y
+print('A soma de x e y é:', z)
+print('A subtração de x com y é:', w)
+print('A multiplicação de x com y é:', x*y)
